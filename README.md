@@ -1,1 +1,2 @@
-# FinStock-Net
+# Stock-Prediction
+Stock prediction using BiLSTM + DNN model
