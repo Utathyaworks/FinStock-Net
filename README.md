@@ -15,7 +15,7 @@ If you're using this article or code in your research or applications, please co
 ```
 @inproceedings{Bhattacharya2025finstocknet,
   title={FinStock-Net – Financial Integration of Short & Medium Trends for Stock Price Prediction},
-  author={Bhattacharya Anubhab, Chakraborty Abir , Mandal Soham  , Chatterjee Aritra , Aich Utathya  and Sarkar Ram },
+  author={ Bhattacharya Anubhab, Chakraborty Abir , Mandal Soham  , Chatterjee Aritra , Aich Utathya  and Sarkar Ram },
   ConferenceTitile={CICBA2025},
   year={2025},
   note={Accepted for publication}
