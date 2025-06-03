@@ -20,7 +20,7 @@ publicly available financial datasets like Nifty50, Sensex, and S&P500, demonstr
 ### Sample DRASU-Net Predictions
 
 <p>
-  <img src="Figures/example_pred" width="400"/>
+  <img src="Figures/example_pred.jpg" width="400"/>
 </p>
 
 
