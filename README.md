@@ -16,6 +16,13 @@ proaches. FinStock-Net employs adaptive gating mechanisms to dynamically reweigh
 publicly available financial datasets like Nifty50, Sensex, and S&P500, demonstrating its superior predictive accuracy over some existing models and establishing it as a robust framework for stock market forecasting.
 
 
+### Sample DRASU-Net Predictions
+
+<p>
+  <img src="Figures/sample_data_pred.jpg" width="700"/>
+</p>
+
+
 
 ### Sample DRASU-Net Predictions
 
