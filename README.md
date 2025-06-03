@@ -22,6 +22,12 @@ publicly available financial datasets like Nifty50, Sensex, and S&P500, demonstr
   <img src="Figures/sample_data_pred.jpg" width="700"/>
 </p>
 
+### FinStock-Net Performance
+
+<p>
+  <img src="Figures/FinStock_Net_pred.jpeg" width="700"/>
+</p>
+
 
 
 ### Sample FinStock-Net Predictions
