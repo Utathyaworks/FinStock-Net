@@ -6,7 +6,7 @@ This is the official implementation of "FinStock-Net – Financial Integration o
 
 
 ### Proposed workflow:
-![Description](Figures/FinStock_Net.jpg)
+![Description](Figures/Finstocknet.jpg)
 
 ## Abstract
 The stock market serves as a fundamental pillar of the global financial ecosystem, influencing macroeconomic stability and investment strategies. Among various financial indicators, the closing price is a crit-
